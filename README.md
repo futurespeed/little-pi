@@ -1,4 +1,7 @@
 # little-pi
+
+Allwinner V3s Linux Dev Board
+
 ## Material List
 |name|num|
 |----|----|
@@ -22,7 +25,7 @@
 - USB Transport
 
 ## Schematic
-![schematic]("SCH_Schematic Little Pi Core Borad.pdf")
+[schematic](SCH_Schematic Little Pi Core Borad.pdf)
 
 ## Preview
 ![preview1](little-pi-preview-1.png)
