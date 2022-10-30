@@ -25,7 +25,7 @@ Allwinner V3s Linux Dev Board
 - USB Transport
 
 ## Schematic
-<SCH_Schematic%20Little%20Pi%20Core%20Borad.pdf>
+![schematic](SCH_Schematic-Little-Pi-Core-Borad.pdf)
 
 ## Preview
 ![preview1](little-pi-preview-1.png)
