@@ -15,7 +15,7 @@ Allwinner V3s Linux Dev Board
 |RTL8723BS module|1|
 |TF Card|1|
 |Tact Switch|1|
-|LCD 800x480 RGB888|1|
+|LCD RGB888 800x480|1|
 |...|n|
 
 ## Functions
