@@ -23,6 +23,7 @@ Allwinner V3s Linux Dev Board
 - Audio Output
 - UART Transport + USB Type-C Power support
 - USB Transport
+- WiFi + BT
 
 ## Schematic
 [schematic pdf](SCH_Schematic-Little-Pi-Core-Borad.pdf)
