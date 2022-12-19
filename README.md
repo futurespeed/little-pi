@@ -31,4 +31,4 @@ Allwinner V3s Linux Dev Board
 ## Preview
 ![preview1](little-pi-preview-1.png)
 ![preview2](little-pi-preview-2.png)
-![preview3](little-pi-preview-3.png)
+![preview3](little-pi-preview-3.jpg)
